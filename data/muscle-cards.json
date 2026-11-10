@@ -1,0 +1,3120 @@
+{
+  "meta": {
+    "version": 2,
+    "updated": "2026-10-23",
+    "language": "it",
+    "reviewStatus": "Sintesi didattiche non sottoposte a revisione clinica indipendente.",
+    "license": "CC BY 4.0 per le sintesi originali e gli abbinamenti; i modelli mantengono le proprie licenze.",
+    "cardCount": 203,
+    "matchedStructureCount": 452,
+    "muscularStructureCount": 669
+  },
+  "sources": {
+    "upper": {
+      "title": "UAMS · Muscles of the Upper Limb",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-upper-limb/",
+      "accessed": "2026-10-23"
+    },
+    "lower": {
+      "title": "UAMS · Muscles of the Lower Limb",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-lower-limb/",
+      "accessed": "2026-10-23"
+    },
+    "back": {
+      "title": "UAMS · Muscles of the Back Region",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-back-region/",
+      "accessed": "2026-10-23"
+    },
+    "head": {
+      "title": "UAMS · Muscles of the Head and Neck",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-head-and-neck/",
+      "accessed": "2026-10-23"
+    },
+    "abdomen": {
+      "title": "UAMS · Muscles of the Abdominal Region",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-abdominal-region/",
+      "accessed": "2026-10-23"
+    },
+    "thorax": {
+      "title": "UAMS · Muscles of the Thorax",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-thorax/",
+      "accessed": "2026-10-23"
+    },
+    "pelvis": {
+      "title": "UAMS · Muscles of the Pelvis and Perineum",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/muscle-tables/muscles-of-the-pelvis-and-perineum/",
+      "accessed": "2026-10-23"
+    }
+  },
+  "cards": [
+    {
+      "id": "deltoid-anterior",
+      "name": "Deltoide — porzione clavicolare",
+      "region": "Spalla",
+      "models": [
+        "Clavicular part of deltoid muscle"
+      ],
+      "origin": "Terzo laterale della clavicola, margine anteriore.",
+      "insertion": "Tuberosità deltoidea dell’omero.",
+      "actions": "Flessione e rotazione interna del braccio; contribuisce all’adduzione orizzontale.",
+      "innervation": "Nervo ascellare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "deltoid-middle",
+      "name": "Deltoide — porzione acromiale",
+      "region": "Spalla",
+      "models": [
+        "Acromial part of deltoid muscle"
+      ],
+      "origin": "Margine laterale e superficie superiore dell’acromion.",
+      "insertion": "Tuberosità deltoidea dell’omero.",
+      "actions": "Abduzione del braccio; contribuisce alla stabilità gleno-omerale.",
+      "innervation": "Nervo ascellare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "deltoid-posterior",
+      "name": "Deltoide — porzione spinale",
+      "region": "Spalla",
+      "models": [
+        "Scapular spinal part of deltoid muscle"
+      ],
+      "origin": "Labbro inferiore della spina della scapola.",
+      "insertion": "Tuberosità deltoidea dell’omero.",
+      "actions": "Estensione e rotazione esterna del braccio; contribuisce all’abduzione orizzontale.",
+      "innervation": "Nervo ascellare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "supraspinatus",
+      "name": "Sovraspinato",
+      "region": "Spalla",
+      "models": [
+        "Supraspinatus muscle"
+      ],
+      "origin": "Fossa sovraspinata della scapola.",
+      "insertion": "Faccetta superiore del tubercolo maggiore dell’omero e capsula articolare.",
+      "actions": "Contribuisce all’abduzione e alla centratura della testa omerale nella glena.",
+      "innervation": "Nervo sovrascapolare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "infraspinatus",
+      "name": "Infraspinato",
+      "region": "Spalla",
+      "models": [
+        "Infraspinatus muscle"
+      ],
+      "origin": "Fossa infraspinata della scapola.",
+      "insertion": "Faccetta media del tubercolo maggiore dell’omero e capsula articolare.",
+      "actions": "Rotazione esterna e stabilizzazione gleno-omerale.",
+      "innervation": "Nervo sovrascapolare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "teres-minor",
+      "name": "Piccolo rotondo",
+      "region": "Spalla",
+      "models": [
+        "Teres minor muscle"
+      ],
+      "origin": "Porzione superiore del margine laterale della scapola.",
+      "insertion": "Faccetta inferiore del tubercolo maggiore dell’omero.",
+      "actions": "Rotazione esterna; contribuisce all’adduzione e alla stabilità della spalla.",
+      "innervation": "Nervo ascellare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "subscapularis",
+      "name": "Sottoscapolare",
+      "region": "Spalla",
+      "models": [
+        "Subscapularis muscle"
+      ],
+      "origin": "Fossa sottoscapolare, sulla superficie anteriore della scapola.",
+      "insertion": "Tubercolo minore dell’omero e capsula articolare.",
+      "actions": "Rotazione interna, adduzione e stabilizzazione gleno-omerale.",
+      "innervation": "Nervi sottoscapolari superiore e inferiore.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "teres-major",
+      "name": "Grande rotondo",
+      "region": "Spalla",
+      "models": [
+        "Teres major muscle"
+      ],
+      "origin": "Superficie posteriore dell’angolo inferiore della scapola.",
+      "insertion": "Labbro mediale del solco intertubercolare dell’omero.",
+      "actions": "Adduzione, rotazione interna ed estensione del braccio.",
+      "innervation": "Nervo sottoscapolare inferiore.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "pectoralis-clavicular",
+      "name": "Grande pettorale — capo clavicolare",
+      "region": "Spalla",
+      "models": [
+        "Clavicular head of pectoralis major muscle"
+      ],
+      "origin": "Metà mediale della clavicola, superficie anteriore.",
+      "insertion": "Labbro laterale del solco intertubercolare dell’omero.",
+      "actions": "Flessione, adduzione e rotazione interna del braccio.",
+      "innervation": "Nervi pettorali, con contributo prevalente del pettorale laterale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "pectoralis-sternal",
+      "name": "Grande pettorale — capo sternocostale",
+      "region": "Spalla",
+      "models": [
+        "Sternocostal head of pectoralis major muscle"
+      ],
+      "origin": "Sterno e cartilagini costali superiori; continuità con l’aponeurosi dell’obliquo esterno.",
+      "insertion": "Labbro laterale del solco intertubercolare dell’omero.",
+      "actions": "Adduzione e rotazione interna; estensione del braccio dalla posizione flessa.",
+      "innervation": "Nervi pettorali mediale e laterale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "pectoralis-abdominal",
+      "name": "Grande pettorale — porzione addominale",
+      "region": "Spalla",
+      "models": [
+        "(Abdominal part of pectoralis major muscle)"
+      ],
+      "origin": "Aponeurosi dell’obliquo esterno; sviluppo variabile.",
+      "insertion": "Tendine comune del grande pettorale sul labbro laterale del solco intertubercolare.",
+      "actions": "Contribuisce all’adduzione e alla rotazione interna del braccio e al ritorno dalla flessione.",
+      "innervation": "Nervi pettorali mediale e laterale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "pectoralis-minor",
+      "name": "Piccolo pettorale",
+      "region": "Spalla",
+      "models": [
+        "Pectoralis minor muscle"
+      ],
+      "origin": "Coste III–V, in prossimità delle cartilagini costali.",
+      "insertion": "Processo coracoideo della scapola.",
+      "actions": "Porta la scapola in avanti e in basso; a scapola fissa può contribuire all’inspirazione.",
+      "innervation": "Nervo pettorale mediale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "subclavius",
+      "name": "Succlavio",
+      "region": "Spalla",
+      "models": [
+        "Subclavius muscle"
+      ],
+      "origin": "I costa e relativa cartilagine costale.",
+      "insertion": "Superficie inferiore del terzo medio della clavicola.",
+      "actions": "Abbassa e stabilizza la clavicola.",
+      "innervation": "Nervo del succlavio.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "serratus-anterior",
+      "name": "Dentato anteriore",
+      "region": "Spalla",
+      "models": [
+        "Serratus anterior muscle"
+      ],
+      "origin": "Superficie esterna delle prime otto o nove coste.",
+      "insertion": "Superficie costale del margine mediale della scapola, soprattutto angolo inferiore.",
+      "actions": "Protrazione e rotazione verso l’alto della scapola; la mantiene aderente al torace.",
+      "innervation": "Nervo toracico lungo.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "trapezius-upper",
+      "name": "Trapezio — porzione discendente",
+      "region": "Spalla",
+      "models": [
+        "Descending part of trapezius muscle"
+      ],
+      "origin": "Occipite e legamento nucale.",
+      "insertion": "Terzo laterale della clavicola.",
+      "actions": "Elevazione della scapola; con la porzione inferiore contribuisce alla rotazione verso l’alto.",
+      "innervation": "Nervo accessorio (XI) per la motricità; rami cervicali per la propriocezione.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "trapezius-middle",
+      "name": "Trapezio — porzione trasversa",
+      "region": "Spalla",
+      "models": [
+        "Transverse part of trapezius muscle"
+      ],
+      "origin": "Processi spinosi cervicali inferiori e toracici superiori.",
+      "insertion": "Acromion e spina della scapola.",
+      "actions": "Retrazione e stabilizzazione della scapola.",
+      "innervation": "Nervo accessorio (XI) per la motricità; rami cervicali per la propriocezione.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "trapezius-lower",
+      "name": "Trapezio — porzione ascendente",
+      "region": "Spalla",
+      "models": [
+        "Ascending part of trapezius muscle"
+      ],
+      "origin": "Processi spinosi delle vertebre toraciche inferiori, fino a T12.",
+      "insertion": "Estremità mediale della spina della scapola.",
+      "actions": "Depressione; con la porzione superiore contribuisce alla rotazione verso l’alto della scapola.",
+      "innervation": "Nervo accessorio (XI) per la motricità; rami cervicali per la propriocezione.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "levator-scapulae",
+      "name": "Elevatore della scapola",
+      "region": "Spalla",
+      "models": [
+        "Levator scapulae"
+      ],
+      "origin": "Processi trasversi di C1–C4.",
+      "insertion": "Margine mediale della scapola fra angolo superiore e radice della spina.",
+      "actions": "Elevazione e rotazione verso il basso della scapola; a scapola fissa contribuisce all’inclinazione cervicale omolaterale.",
+      "innervation": "Nervo dorsale della scapola e rami cervicali.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "rhomboid-major",
+      "name": "Grande romboide",
+      "region": "Spalla",
+      "models": [
+        "Rhomboid major muscle"
+      ],
+      "origin": "Processi spinosi di T2–T5.",
+      "insertion": "Margine mediale della scapola sotto la spina.",
+      "actions": "Retrazione, elevazione e rotazione verso il basso della scapola.",
+      "innervation": "Nervo dorsale della scapola.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "rhomboid-minor",
+      "name": "Piccolo romboide",
+      "region": "Spalla",
+      "models": [
+        "Rhomboid minor muscle"
+      ],
+      "origin": "Legamento nucale inferiore e processi spinosi di C7–T1.",
+      "insertion": "Margine mediale della scapola alla radice della spina.",
+      "actions": "Retrazione e rotazione verso il basso della scapola.",
+      "innervation": "Nervo dorsale della scapola.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "latissimus",
+      "name": "Gran dorsale",
+      "region": "Dorso",
+      "models": [
+        "Latissimus dorsi muscle"
+      ],
+      "origin": "Processi spinosi toracici inferiori, fascia toracolombare, cresta iliaca e coste inferiori.",
+      "insertion": "Pavimento del solco intertubercolare dell’omero.",
+      "actions": "Estensione, adduzione e rotazione interna del braccio.",
+      "innervation": "Nervo toracodorsale.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "biceps-long",
+      "name": "Bicipite brachiale — capo lungo",
+      "region": "Braccio",
+      "models": [
+        "Long head of biceps brachii"
+      ],
+      "origin": "Tubercolo sovraglenoideo e labbro glenoideo superiore della scapola.",
+      "insertion": "Tuberosità del radio e fascia dell’avambraccio tramite aponeurosi bicipitale.",
+      "actions": "Supinazione dell’avambraccio e flessione del gomito; partecipa alla flessione della spalla.",
+      "innervation": "Nervo muscolocutaneo.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "biceps-short",
+      "name": "Bicipite brachiale — capo breve",
+      "region": "Braccio",
+      "models": [
+        "Short head of biceps brachii"
+      ],
+      "origin": "Apice del processo coracoideo della scapola.",
+      "insertion": "Tuberosità del radio e aponeurosi bicipitale.",
+      "actions": "Supinazione dell’avambraccio e flessione del gomito; contribuisce alla flessione della spalla.",
+      "innervation": "Nervo muscolocutaneo.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "brachialis",
+      "name": "Brachiale",
+      "region": "Braccio",
+      "models": [
+        "Brachialis muscle"
+      ],
+      "origin": "Metà distale della superficie anteriore dell’omero.",
+      "insertion": "Tuberosità dell’ulna e processo coronoideo.",
+      "actions": "Flessione del gomito in pronazione e in supinazione.",
+      "innervation": "Nervo muscolocutaneo; piccolo contributo del nervo radiale alla porzione laterale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "coracobrachialis",
+      "name": "Coracobrachiale",
+      "region": "Braccio",
+      "models": [
+        "Coracobrachialis muscle"
+      ],
+      "origin": "Processo coracoideo della scapola.",
+      "insertion": "Terzo medio della faccia mediale dell’omero.",
+      "actions": "Flessione e adduzione del braccio.",
+      "innervation": "Nervo muscolocutaneo.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "triceps-long",
+      "name": "Tricipite brachiale — capo lungo",
+      "region": "Braccio",
+      "models": [
+        "Long head of triceps brachii"
+      ],
+      "origin": "Tubercolo infraglenoideo della scapola.",
+      "insertion": "Olecrano dell’ulna attraverso il tendine del tricipite.",
+      "actions": "Estensione del gomito; contribuisce a estensione e adduzione della spalla.",
+      "innervation": "Nervo radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "triceps-lateral",
+      "name": "Tricipite brachiale — capo laterale",
+      "region": "Braccio",
+      "models": [
+        "Lateral head of triceps brachii"
+      ],
+      "origin": "Superficie posteriore dell’omero, superiormente al solco del nervo radiale.",
+      "insertion": "Olecrano dell’ulna attraverso il tendine comune.",
+      "actions": "Estensione del gomito.",
+      "innervation": "Nervo radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "triceps-medial",
+      "name": "Tricipite brachiale — capo mediale",
+      "region": "Braccio",
+      "models": [
+        "Medial head of triceps brachii"
+      ],
+      "origin": "Superficie posteriore dell’omero, inferiormente al solco del nervo radiale.",
+      "insertion": "Olecrano dell’ulna attraverso il tendine comune.",
+      "actions": "Estensione del gomito.",
+      "innervation": "Nervo radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "anconeus",
+      "name": "Anconeo",
+      "region": "Braccio",
+      "models": [
+        "Anconeus muscle"
+      ],
+      "origin": "Epicondilo laterale dell’omero.",
+      "insertion": "Olecrano e superficie posteriore prossimale dell’ulna.",
+      "actions": "Assiste l’estensione e la stabilizzazione del gomito.",
+      "innervation": "Nervo radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "brachioradialis",
+      "name": "Brachioradiale",
+      "region": "Avambraccio",
+      "models": [
+        "Brachioradialis muscle"
+      ],
+      "origin": "Cresta sovracondiloidea laterale dell’omero.",
+      "insertion": "Radio distale, prossimalmente al processo stiloideo.",
+      "actions": "Flessione del gomito, soprattutto con avambraccio in posizione intermedia.",
+      "innervation": "Nervo radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "pronator-teres",
+      "name": "Pronatore rotondo",
+      "region": "Avambraccio",
+      "models": [
+        "Superficial head of pronator teres",
+        "Deep head of pronator teres"
+      ],
+      "origin": "Capo omerale: epicondilo mediale. Capo ulnare: processo coronoideo dell’ulna.",
+      "insertion": "Superficie laterale del radio, circa a metà diafisi.",
+      "actions": "Pronazione dell’avambraccio; debole contributo alla flessione del gomito.",
+      "innervation": "Nervo mediano.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "pronator-quadratus",
+      "name": "Pronatore quadrato",
+      "region": "Avambraccio",
+      "models": [
+        "Pronator quadratus"
+      ],
+      "origin": "Quarto distale della superficie anteriore dell’ulna.",
+      "insertion": "Quarto distale della superficie anteriore del radio.",
+      "actions": "Pronazione e stabilizzazione della radioulnare distale.",
+      "innervation": "Nervo interosseo anteriore, ramo del mediano.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "supinator",
+      "name": "Supinatore",
+      "region": "Avambraccio",
+      "models": [
+        "Supinator"
+      ],
+      "origin": "Epicondilo laterale, legamenti del gomito e cresta del supinatore dell’ulna.",
+      "insertion": "Superfici del terzo prossimale del radio.",
+      "actions": "Supinazione dell’avambraccio.",
+      "innervation": "Ramo profondo del nervo radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "fcr",
+      "name": "Flessore radiale del carpo",
+      "region": "Avambraccio",
+      "models": [
+        "Flexor carpi radialis"
+      ],
+      "origin": "Epicondilo mediale tramite il tendine comune dei flessori.",
+      "insertion": "Base del II metacarpale, con espansione al III.",
+      "actions": "Flessione e deviazione radiale del polso.",
+      "innervation": "Nervo mediano.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "fcu",
+      "name": "Flessore ulnare del carpo",
+      "region": "Avambraccio",
+      "models": [
+        "Humeral head of flexor carpi ulnaris",
+        "Ulnar head of flexor carpi ulnaris"
+      ],
+      "origin": "Capo omerale: epicondilo mediale. Capo ulnare: olecrano e margine posteriore dell’ulna.",
+      "insertion": "Pisiforme; tramite legamenti, uncino dell’uncinato e base del V metacarpale.",
+      "actions": "Flessione e deviazione ulnare del polso.",
+      "innervation": "Nervo ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "palmaris",
+      "name": "Palmare lungo",
+      "region": "Avambraccio",
+      "models": [
+        "Palmaris longus muscle"
+      ],
+      "origin": "Epicondilo mediale dell’omero.",
+      "insertion": "Retinacolo dei flessori e aponeurosi palmare.",
+      "actions": "Tende l’aponeurosi palmare e assiste la flessione del polso; può essere assente.",
+      "innervation": "Nervo mediano.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "fds",
+      "name": "Flessore superficiale delle dita",
+      "region": "Avambraccio",
+      "models": [
+        "Humero-ulnar head of flexor digitorum superficialis",
+        "Radial head of flexor digitorum superficialis"
+      ],
+      "origin": "Capo omero-ulnare: epicondilo mediale e processo coronoideo. Capo radiale: margine anteriore del radio.",
+      "insertion": "Lati delle falangi medie delle dita II–V.",
+      "actions": "Flessione delle interfalangee prossimali; assiste flessione metacarpofalangea e del polso.",
+      "innervation": "Nervo mediano.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "fdp",
+      "name": "Flessore profondo delle dita",
+      "region": "Avambraccio",
+      "models": [
+        "Flexor digitorum profundus"
+      ],
+      "origin": "Ulna prossimale anteriore e mediale e membrana interossea.",
+      "insertion": "Basi delle falangi distali delle dita II–V.",
+      "actions": "Flessione delle interfalangee distali; contribuisce alla flessione delle dita e del polso.",
+      "innervation": "Porzione per II–III dito: interosseo anteriore (mediano). Porzione per IV–V: ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "fpl",
+      "name": "Flessore lungo del pollice",
+      "region": "Avambraccio",
+      "models": [
+        "Flexor pollicis longus"
+      ],
+      "origin": "Superficie anteriore del radio e membrana interossea.",
+      "insertion": "Base della falange distale del pollice.",
+      "actions": "Flessione dell’interfalangea del pollice; assiste le altre articolazioni del pollice.",
+      "innervation": "Nervo interosseo anteriore, ramo del mediano.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "ecrl",
+      "name": "Estensore radiale lungo del carpo",
+      "region": "Avambraccio",
+      "models": [
+        "Extensor carpi radialis longus"
+      ],
+      "origin": "Cresta sovracondiloidea laterale dell’omero.",
+      "insertion": "Superficie dorsale della base del II metacarpale.",
+      "actions": "Estensione e deviazione radiale del polso.",
+      "innervation": "Nervo radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "ecrb",
+      "name": "Estensore radiale breve del carpo",
+      "region": "Avambraccio",
+      "models": [
+        "Extensor carpi radialis brevis"
+      ],
+      "origin": "Epicondilo laterale tramite il tendine comune degli estensori.",
+      "insertion": "Superficie dorsale della base del III metacarpale.",
+      "actions": "Estensione e deviazione radiale del polso.",
+      "innervation": "Ramo profondo del nervo radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "ecu",
+      "name": "Estensore ulnare del carpo",
+      "region": "Avambraccio",
+      "models": [
+        "Humeral head of extensor carpi ulnaris",
+        "Ulnar head of extensor carpi ulnaris"
+      ],
+      "origin": "Epicondilo laterale e margine posteriore dell’ulna.",
+      "insertion": "Superficie dorsale della base del V metacarpale.",
+      "actions": "Estensione e deviazione ulnare del polso.",
+      "innervation": "Nervo interosseo posteriore, continuazione del ramo profondo del radiale.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "ed",
+      "name": "Estensore delle dita",
+      "region": "Avambraccio",
+      "models": [
+        "Extensor digitorum"
+      ],
+      "origin": "Epicondilo laterale tramite il tendine comune degli estensori.",
+      "insertion": "Espansioni dorsali delle dita II–V, fino alle falangi medie e distali.",
+      "actions": "Estensione delle dita II–V e contributo all’estensione del polso.",
+      "innervation": "Nervo interosseo posteriore.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "edm",
+      "name": "Estensore del mignolo",
+      "region": "Avambraccio",
+      "models": [
+        "Extensor digiti minimi"
+      ],
+      "origin": "Epicondilo laterale dell’omero.",
+      "insertion": "Espansione dorsale del V dito.",
+      "actions": "Estensione del mignolo.",
+      "innervation": "Nervo interosseo posteriore.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "ei",
+      "name": "Estensore dell’indice",
+      "region": "Avambraccio",
+      "models": [
+        "Extensor indicis"
+      ],
+      "origin": "Ulna distale posteriore e membrana interossea.",
+      "insertion": "Espansione dorsale dell’indice.",
+      "actions": "Estensione indipendente dell’indice.",
+      "innervation": "Nervo interosseo posteriore.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "apl",
+      "name": "Abduttore lungo del pollice",
+      "region": "Avambraccio",
+      "models": [
+        "Abductor pollicis longus"
+      ],
+      "origin": "Superfici posteriori di radio e ulna e membrana interossea.",
+      "insertion": "Base del I metacarpale, lato radiale.",
+      "actions": "Abduzione ed estensione del pollice alla trapeziometacarpale.",
+      "innervation": "Nervo interosseo posteriore.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "epb",
+      "name": "Estensore breve del pollice",
+      "region": "Avambraccio",
+      "models": [
+        "Extensor pollicis brevis"
+      ],
+      "origin": "Radio posteriore e membrana interossea.",
+      "insertion": "Base dorsale della falange prossimale del pollice.",
+      "actions": "Estensione metacarpofalangea del pollice; contribuisce all’estensione trapeziometacarpale.",
+      "innervation": "Nervo interosseo posteriore.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "epl",
+      "name": "Estensore lungo del pollice",
+      "region": "Avambraccio",
+      "models": [
+        "Extensor pollicis longus"
+      ],
+      "origin": "Ulna posteriore e membrana interossea.",
+      "insertion": "Base dorsale della falange distale del pollice.",
+      "actions": "Estensione interfalangea del pollice; assiste l’estensione delle altre articolazioni.",
+      "innervation": "Nervo interosseo posteriore.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "apb",
+      "name": "Abduttore breve del pollice",
+      "region": "Mano",
+      "models": [
+        "Abductor pollicis brevis"
+      ],
+      "origin": "Retinacolo dei flessori, scafoide e trapezio.",
+      "insertion": "Lato radiale della base della falange prossimale del pollice.",
+      "actions": "Abduzione palmare del pollice e contributo all’opposizione.",
+      "innervation": "Ramo ricorrente del nervo mediano.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "fpb",
+      "name": "Flessore breve del pollice",
+      "region": "Mano",
+      "models": [
+        "Superficial head of flexor pollicis brevis",
+        "Deep head of flexor pollicis brevis"
+      ],
+      "origin": "Capo superficiale: retinacolo e trapezio. Capo profondo: trapezoide e capitato.",
+      "insertion": "Base della falange prossimale del pollice, attraverso il sesamoide radiale.",
+      "actions": "Flessione metacarpofalangea del pollice; contribuisce all’opposizione.",
+      "innervation": "Capo superficiale: mediano. Capo profondo: generalmente ramo profondo dell’ulnare; variabilità anatomica.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "op",
+      "name": "Opponente del pollice",
+      "region": "Mano",
+      "models": [
+        "Opponens pollicis muscle"
+      ],
+      "origin": "Retinacolo dei flessori e tubercolo del trapezio.",
+      "insertion": "Margine radiale e superficie palmare del I metacarpale.",
+      "actions": "Opposizione del pollice attraverso flessione e rotazione del I metacarpale.",
+      "innervation": "Ramo ricorrente del nervo mediano.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "adductor-pollicis",
+      "name": "Adduttore del pollice",
+      "region": "Mano",
+      "models": [
+        "Oblique head of adductor pollicis",
+        "Transverse head of adductor pollicis"
+      ],
+      "origin": "Capo obliquo: capitato e basi dei metacarpali II–III. Capo trasverso: diafisi del III metacarpale.",
+      "insertion": "Lato ulnare della falange prossimale del pollice, attraverso il sesamoide ulnare.",
+      "actions": "Adduzione del pollice; contribuisce alla pinza.",
+      "innervation": "Ramo profondo del nervo ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "adm-hand",
+      "name": "Abduttore del mignolo della mano",
+      "region": "Mano",
+      "models": [
+        "Abductor digiti minimi of hand"
+      ],
+      "origin": "Pisiforme e tendine del flessore ulnare del carpo.",
+      "insertion": "Lato ulnare della base della falange prossimale del V dito.",
+      "actions": "Abduzione del mignolo e contributo alla flessione metacarpofalangea.",
+      "innervation": "Ramo profondo del nervo ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "fdm-hand",
+      "name": "Flessore breve del mignolo della mano",
+      "region": "Mano",
+      "models": [
+        "Flexor digiti minimi of hand"
+      ],
+      "origin": "Uncino dell’uncinato e retinacolo dei flessori.",
+      "insertion": "Base della falange prossimale del V dito.",
+      "actions": "Flessione metacarpofalangea del mignolo.",
+      "innervation": "Ramo profondo del nervo ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "odm-hand",
+      "name": "Opponente del mignolo della mano",
+      "region": "Mano",
+      "models": [
+        "Opponens digiti minimi muscle of hand"
+      ],
+      "origin": "Uncino dell’uncinato e retinacolo dei flessori.",
+      "insertion": "Margine ulnare del V metacarpale.",
+      "actions": "Porta il V metacarpale anteriormente e lo ruota, approfondendo il palmo.",
+      "innervation": "Ramo profondo del nervo ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "lumbricals-hand",
+      "name": "Lombricali della mano",
+      "region": "Mano",
+      "models": [
+        "Lumbrical muscles of hand"
+      ],
+      "origin": "Tendini del flessore profondo delle dita.",
+      "insertion": "Lato radiale delle espansioni dorsali delle dita II–V.",
+      "actions": "Flessione metacarpofalangea ed estensione interfalangea delle dita II–V.",
+      "innervation": "I–II: nervo mediano. III–IV: ramo profondo dell’ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "interossei-dorsal-hand",
+      "name": "Interossei dorsali della mano",
+      "region": "Mano",
+      "models": [
+        "Dorsal interossei muscles of hand"
+      ],
+      "origin": "Facce contrapposte dei metacarpali adiacenti.",
+      "insertion": "Basi delle falangi prossimali ed espansioni dorsali delle dita II–IV.",
+      "actions": "Abduzione rispetto all’asse del III dito; flessione metacarpofalangea ed estensione interfalangea.",
+      "innervation": "Ramo profondo del nervo ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "interossei-palmar",
+      "name": "Interossei palmari",
+      "region": "Mano",
+      "models": [
+        "Palmar interossei muscles"
+      ],
+      "origin": "Superfici palmari dei metacarpali II, IV e V.",
+      "insertion": "Falangi prossimali ed espansioni dorsali delle dita corrispondenti, dal lato rivolto al III dito.",
+      "actions": "Adduzione verso il III dito; flessione metacarpofalangea ed estensione interfalangea.",
+      "innervation": "Ramo profondo del nervo ulnare.",
+      "sourceIds": [
+        "upper"
+      ]
+    },
+    {
+      "id": "psoas",
+      "name": "Grande psoas",
+      "region": "Anca",
+      "models": [
+        "Psoas major"
+      ],
+      "origin": "Corpi e dischi da T12 a L5 e processi trasversi lombari.",
+      "insertion": "Piccolo trocantere del femore, con l’iliaco.",
+      "actions": "Flessione dell’anca; a femore fisso contribuisce alla flessione e all’inclinazione del tronco.",
+      "innervation": "Rami anteriori dei nervi lombari.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "iliacus",
+      "name": "Iliaco",
+      "region": "Anca",
+      "models": [
+        "Iliacus muscle"
+      ],
+      "origin": "Fossa iliaca, cresta iliaca e regione adiacente dell’ala sacrale.",
+      "insertion": "Piccolo trocantere e area femorale adiacente tramite il tendine dell’ileopsoas.",
+      "actions": "Flessione dell’anca e contributo alla stabilità anteriore.",
+      "innervation": "Nervo femorale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "gluteus-max",
+      "name": "Grande gluteo",
+      "region": "Anca",
+      "models": [
+        "Gluteus maximus muscle"
+      ],
+      "origin": "Ileo posteriore, sacro, coccige e legamento sacrotuberoso.",
+      "insertion": "Tratto ileotibiale e tuberosità glutea del femore.",
+      "actions": "Estensione e rotazione esterna dell’anca; sostiene il tronco durante il passaggio alla stazione eretta.",
+      "innervation": "Nervo gluteo inferiore.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "gluteus-med",
+      "name": "Medio gluteo",
+      "region": "Anca",
+      "models": [
+        "Gluteus medius muscle"
+      ],
+      "origin": "Superficie esterna dell’ileo tra le linee glutee anteriore e posteriore.",
+      "insertion": "Faccia laterale del grande trocantere.",
+      "actions": "Abduzione e stabilizzazione del bacino nell’appoggio monopodalico; i fasci anteriori contribuiscono alla rotazione interna.",
+      "innervation": "Nervo gluteo superiore.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "gluteus-min",
+      "name": "Piccolo gluteo",
+      "region": "Anca",
+      "models": [
+        "Gluteus minimus muscle"
+      ],
+      "origin": "Superficie esterna dell’ileo tra le linee glutee anteriore e inferiore.",
+      "insertion": "Faccia anteriore del grande trocantere.",
+      "actions": "Abduzione e rotazione interna dell’anca; stabilizzazione del bacino.",
+      "innervation": "Nervo gluteo superiore.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "tfl",
+      "name": "Tensore della fascia lata",
+      "region": "Anca",
+      "models": [
+        "Tensor fasciae latae"
+      ],
+      "origin": "Spina iliaca anterosuperiore e cresta iliaca anteriore.",
+      "insertion": "Tratto ileotibiale, che prosegue fino alla tibia laterale prossimale.",
+      "actions": "Flessione, abduzione e rotazione interna dell’anca; tensione della fascia lata.",
+      "innervation": "Nervo gluteo superiore.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "piriformis",
+      "name": "Piriforme",
+      "region": "Anca",
+      "models": [
+        "Piriformis muscle"
+      ],
+      "origin": "Superficie anteriore del sacro.",
+      "insertion": "Margine superiore del grande trocantere del femore.",
+      "actions": "Rotazione esterna a anca estesa; abduzione a anca flessa; stabilizzazione dell’anca.",
+      "innervation": "Nervo del piriforme, dal plesso sacrale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "obturator-internus",
+      "name": "Otturatore interno",
+      "region": "Anca",
+      "models": [
+        "Obturator internus"
+      ],
+      "origin": "Superficie pelvica della membrana otturatoria e margini ossei circostanti.",
+      "insertion": "Superficie mediale del grande trocantere.",
+      "actions": "Rotazione esterna; abduzione dell’anca flessa e stabilizzazione della testa femorale.",
+      "innervation": "Nervo dell’otturatore interno.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "obturator-externus",
+      "name": "Otturatore esterno",
+      "region": "Anca",
+      "models": [
+        "Obturator externus"
+      ],
+      "origin": "Superficie esterna della membrana otturatoria e contorno osseo.",
+      "insertion": "Fossa trocanterica del femore.",
+      "actions": "Rotazione esterna e stabilizzazione dell’anca.",
+      "innervation": "Ramo posteriore del nervo otturatorio.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "gemellus-superior",
+      "name": "Gemello superiore",
+      "region": "Anca",
+      "models": [
+        "Superior gemellus muscle"
+      ],
+      "origin": "Spina ischiatica.",
+      "insertion": "Tendine dell’otturatore interno verso il grande trocantere.",
+      "actions": "Rotazione esterna; abduzione dell’anca flessa.",
+      "innervation": "Nervo dell’otturatore interno.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "gemellus-inferior",
+      "name": "Gemello inferiore",
+      "region": "Anca",
+      "models": [
+        "Inferior gemellus muscle"
+      ],
+      "origin": "Tuberosità ischiatica.",
+      "insertion": "Tendine dell’otturatore interno verso il grande trocantere.",
+      "actions": "Rotazione esterna; abduzione dell’anca flessa.",
+      "innervation": "Nervo del quadrato del femore.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "quadratus-femoris",
+      "name": "Quadrato del femore",
+      "region": "Anca",
+      "models": [
+        "Quadratus femoris muscle"
+      ],
+      "origin": "Margine laterale della tuberosità ischiatica.",
+      "insertion": "Tubercolo quadrato e regione della cresta intertrocanterica.",
+      "actions": "Rotazione esterna e adduzione dell’anca.",
+      "innervation": "Nervo del quadrato del femore.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "sartorius",
+      "name": "Sartorio",
+      "region": "Coscia",
+      "models": [
+        "Sartorius muscle"
+      ],
+      "origin": "Spina iliaca anterosuperiore.",
+      "insertion": "Tibia prossimale mediale tramite la zampa d’oca.",
+      "actions": "Flessione, abduzione e rotazione esterna dell’anca; flessione e rotazione interna del ginocchio flesso.",
+      "innervation": "Nervo femorale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "rectus-femoris",
+      "name": "Retto femorale",
+      "region": "Coscia",
+      "models": [
+        "Rectus femoris muscle"
+      ],
+      "origin": "Spina iliaca anteroinferiore e area sovra-acetabolare.",
+      "insertion": "Rotula tramite il tendine quadricipitale; tuberosità tibiale tramite il legamento rotuleo.",
+      "actions": "Estensione del ginocchio e flessione dell’anca.",
+      "innervation": "Nervo femorale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "vastus-lateralis",
+      "name": "Vasto laterale",
+      "region": "Coscia",
+      "models": [
+        "Vastus lateralis muscle"
+      ],
+      "origin": "Grande trocantere, tuberosità glutea e labbro laterale della linea aspra.",
+      "insertion": "Rotula tramite il tendine quadricipitale; tuberosità tibiale tramite il legamento rotuleo.",
+      "actions": "Estensione del ginocchio.",
+      "innervation": "Nervo femorale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "vastus-medialis",
+      "name": "Vasto mediale",
+      "region": "Coscia",
+      "models": [
+        "Vastus medialis muscle"
+      ],
+      "origin": "Linea intertrocanterica e labbro mediale della linea aspra.",
+      "insertion": "Rotula e retinacolo mediale; continuità con il legamento rotuleo.",
+      "actions": "Estensione del ginocchio e contributo al controllo della rotula.",
+      "innervation": "Nervo femorale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "vastus-intermedius",
+      "name": "Vasto intermedio",
+      "region": "Coscia",
+      "models": [
+        "Vastus intermedius muscle"
+      ],
+      "origin": "Superfici anteriore e laterale della diafisi femorale.",
+      "insertion": "Rotula tramite il tendine quadricipitale; tuberosità tibiale tramite il legamento rotuleo.",
+      "actions": "Estensione del ginocchio.",
+      "innervation": "Nervo femorale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "biceps-femoris-long",
+      "name": "Bicipite femorale — capo lungo",
+      "region": "Coscia",
+      "models": [
+        "Long head of biceps femoris"
+      ],
+      "origin": "Tuberosità ischiatica.",
+      "insertion": "Testa della fibula (perone).",
+      "actions": "Estensione dell’anca; flessione del ginocchio e rotazione esterna della gamba a ginocchio flesso.",
+      "innervation": "Divisione tibiale del nervo sciatico.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "biceps-femoris-short",
+      "name": "Bicipite femorale — capo breve",
+      "region": "Coscia",
+      "models": [
+        "Short head of biceps femoris"
+      ],
+      "origin": "Labbro laterale della linea aspra e linea sovracondiloidea laterale.",
+      "insertion": "Testa della fibula (perone), con il capo lungo.",
+      "actions": "Flessione del ginocchio e rotazione esterna della gamba flessa; non attraversa l’anca.",
+      "innervation": "Divisione fibulare comune del nervo sciatico.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "semitendinosus",
+      "name": "Semitendinoso",
+      "region": "Coscia",
+      "models": [
+        "Semitendinosus muscle"
+      ],
+      "origin": "Tuberosità ischiatica.",
+      "insertion": "Tibia prossimale mediale tramite la zampa d’oca.",
+      "actions": "Estensione dell’anca; flessione del ginocchio e rotazione interna della gamba flessa.",
+      "innervation": "Divisione tibiale del nervo sciatico.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "semimembranosus",
+      "name": "Semimembranoso",
+      "region": "Coscia",
+      "models": [
+        "Semimembranosus muscle"
+      ],
+      "origin": "Tuberosità ischiatica.",
+      "insertion": "Superficie posteriore del condilo mediale della tibia, con espansioni capsulari.",
+      "actions": "Estensione dell’anca; flessione del ginocchio e rotazione interna della gamba flessa.",
+      "innervation": "Divisione tibiale del nervo sciatico.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "pectineus",
+      "name": "Pettineo",
+      "region": "Coscia",
+      "models": [
+        "Pectineus muscle"
+      ],
+      "origin": "Pettine e ramo superiore del pube.",
+      "insertion": "Linea pettinea del femore.",
+      "actions": "Adduzione e flessione dell’anca.",
+      "innervation": "Principalmente nervo femorale; possibili contributi otturatori.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "adductor-longus",
+      "name": "Adduttore lungo",
+      "region": "Coscia",
+      "models": [
+        "Adductor longus"
+      ],
+      "origin": "Corpo del pube, inferiormente alla cresta pubica.",
+      "insertion": "Terzo medio della linea aspra del femore.",
+      "actions": "Adduzione dell’anca; contribuisce alla flessione.",
+      "innervation": "Ramo anteriore del nervo otturatorio.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "adductor-brevis",
+      "name": "Adduttore breve",
+      "region": "Coscia",
+      "models": [
+        "Adductor brevis"
+      ],
+      "origin": "Corpo e ramo inferiore del pube.",
+      "insertion": "Linea pettinea e parte prossimale della linea aspra.",
+      "actions": "Adduzione dell’anca; contribuisce alla flessione.",
+      "innervation": "Nervo otturatorio.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "adductor-magnus",
+      "name": "Grande adduttore",
+      "region": "Coscia",
+      "models": [
+        "Adductor magnus"
+      ],
+      "origin": "Ramo ischiopubico e tuberosità ischiatica.",
+      "insertion": "Linea aspra e linea sovracondiloidea mediale; porzione ischiocrurale sul tubercolo dell’adduttore.",
+      "actions": "Adduzione; porzione adduttoria contribuisce alla flessione, porzione ischiocrurale all’estensione dell’anca.",
+      "innervation": "Porzione adduttoria: otturatorio. Porzione ischiocrurale: divisione tibiale dello sciatico.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "adductor-minimus",
+      "name": "Piccolo adduttore",
+      "region": "Coscia",
+      "models": [
+        "(Adductor minimus)"
+      ],
+      "origin": "Ramo ischiopubico, nella regione prossimale del grande adduttore.",
+      "insertion": "Regione prossimale della linea aspra e tuberosità glutea.",
+      "actions": "Adduzione dell’anca; spesso descritto come parte superiore del grande adduttore.",
+      "innervation": "Ramo posteriore del nervo otturatorio.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "gracilis",
+      "name": "Gracile",
+      "region": "Coscia",
+      "models": [
+        "Gracilis muscle"
+      ],
+      "origin": "Corpo e ramo inferiore del pube.",
+      "insertion": "Tibia prossimale mediale tramite la zampa d’oca.",
+      "actions": "Adduzione dell’anca; flessione del ginocchio e rotazione interna della gamba flessa.",
+      "innervation": "Ramo anteriore del nervo otturatorio.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "gastrocnemius-medial",
+      "name": "Gastrocnemio — capo mediale",
+      "region": "Gamba",
+      "models": [
+        "Medial head of gastrocnemius"
+      ],
+      "origin": "Femore posteriore, superiormente al condilo mediale.",
+      "insertion": "Calcagno tramite il tendine calcaneale (di Achille).",
+      "actions": "Flessione plantare della caviglia e flessione del ginocchio.",
+      "innervation": "Nervo tibiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "gastrocnemius-lateral",
+      "name": "Gastrocnemio — capo laterale",
+      "region": "Gamba",
+      "models": [
+        "Lateral head of gastrocnemius"
+      ],
+      "origin": "Regione del condilo laterale del femore.",
+      "insertion": "Calcagno tramite il tendine calcaneale (di Achille).",
+      "actions": "Flessione plantare della caviglia e flessione del ginocchio.",
+      "innervation": "Nervo tibiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "soleus",
+      "name": "Soleo",
+      "region": "Gamba",
+      "models": [
+        "Soleus muscle"
+      ],
+      "origin": "Testa e fibula prossimale, linea del soleo della tibia e arco tendineo.",
+      "insertion": "Calcagno tramite il tendine calcaneale.",
+      "actions": "Flessione plantare e controllo posturale della gamba sul piede; non attraversa il ginocchio.",
+      "innervation": "Nervo tibiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "plantaris",
+      "name": "Plantare",
+      "region": "Gamba",
+      "models": [
+        "Plantaris muscle"
+      ],
+      "origin": "Linea sovracondiloidea laterale del femore.",
+      "insertion": "Calcagno, con un lungo tendine vicino al tendine calcaneale.",
+      "actions": "Debole flessione plantare e flessione del ginocchio; può essere assente.",
+      "innervation": "Nervo tibiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "popliteus",
+      "name": "Popliteo",
+      "region": "Gamba",
+      "models": [
+        "Popliteus muscle"
+      ],
+      "origin": "Condilo laterale del femore, con connessioni al menisco laterale.",
+      "insertion": "Tibia posteriore sopra la linea del soleo.",
+      "actions": "Sblocca il ginocchio: ruota internamente la tibia libera o esternamente il femore a piede fisso; assiste la flessione.",
+      "innervation": "Nervo tibiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "tibialis-anterior",
+      "name": "Tibiale anteriore",
+      "region": "Gamba",
+      "models": [
+        "Tibialis anterior muscle"
+      ],
+      "origin": "Condilo laterale e porzione prossimale della faccia laterale tibiale; membrana interossea.",
+      "insertion": "Cuneiforme mediale e base del I metatarsale.",
+      "actions": "Dorsiflessione e inversione del piede.",
+      "innervation": "Nervo fibulare (peroneo) profondo.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "tibialis-posterior",
+      "name": "Tibiale posteriore",
+      "region": "Gamba",
+      "models": [
+        "Tibialis posterior muscle"
+      ],
+      "origin": "Tibia e fibula posteriori e membrana interossea.",
+      "insertion": "Tuberosità del navicolare, con espansioni a cuneiformi, cuboide e basi metatarsali centrali.",
+      "actions": "Inversione e flessione plantare; sostegno dell’arco longitudinale mediale.",
+      "innervation": "Nervo tibiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "fibularis-longus",
+      "name": "Fibulare lungo (peroneo lungo)",
+      "region": "Gamba",
+      "models": [
+        "Fibularis longus muscle"
+      ],
+      "origin": "Testa e porzione superiore della superficie laterale della fibula.",
+      "insertion": "Superficie plantare del cuneiforme mediale e base del I metatarsale.",
+      "actions": "Eversione e flessione plantare; sostegno degli archi del piede.",
+      "innervation": "Nervo fibulare superficiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "fibularis-brevis",
+      "name": "Fibulare breve (peroneo breve)",
+      "region": "Gamba",
+      "models": [
+        "Fibularis brevis muscle"
+      ],
+      "origin": "Porzione inferiore della superficie laterale della fibula.",
+      "insertion": "Tuberosità della base del V metatarsale.",
+      "actions": "Eversione e contributo alla flessione plantare.",
+      "innervation": "Nervo fibulare superficiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "fibularis-tertius",
+      "name": "Fibulare terzo (peroneo terzo)",
+      "region": "Gamba",
+      "models": [
+        "Fibularis tertius muscle"
+      ],
+      "origin": "Fibula distale anteriore e membrana interossea.",
+      "insertion": "Superficie dorsale della base del V metatarsale.",
+      "actions": "Dorsiflessione ed eversione.",
+      "innervation": "Nervo fibulare profondo.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "edl",
+      "name": "Estensore lungo delle dita del piede",
+      "region": "Gamba",
+      "models": [
+        "Extensor digitorum longus"
+      ],
+      "origin": "Condilo laterale tibiale, fibula anteriore e membrana interossea.",
+      "insertion": "Espansioni dorsali delle dita II–V fino alle falangi medie e distali.",
+      "actions": "Estensione delle dita II–V e dorsiflessione della caviglia.",
+      "innervation": "Nervo fibulare profondo.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "ehl",
+      "name": "Estensore lungo dell’alluce",
+      "region": "Gamba",
+      "models": [
+        "Extensor hallucis longus"
+      ],
+      "origin": "Fibula anteriore e membrana interossea.",
+      "insertion": "Base dorsale della falange distale dell’alluce.",
+      "actions": "Estensione dell’alluce e contributo alla dorsiflessione.",
+      "innervation": "Nervo fibulare profondo.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "fdl",
+      "name": "Flessore lungo delle dita del piede",
+      "region": "Gamba",
+      "models": [
+        "Flexor digitorum longus"
+      ],
+      "origin": "Superficie posteriore della tibia sotto la linea del soleo.",
+      "insertion": "Basi delle falangi distali delle dita II–V.",
+      "actions": "Flessione delle dita II–V; assiste flessione plantare e sostegno dell’arco.",
+      "innervation": "Nervo tibiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "fhl",
+      "name": "Flessore lungo dell’alluce",
+      "region": "Gamba",
+      "models": [
+        "Flexor hallucis longus"
+      ],
+      "origin": "Fibula posteriore e membrana interossea.",
+      "insertion": "Base plantare della falange distale dell’alluce.",
+      "actions": "Flessione dell’alluce e contributo alla flessione plantare, in particolare nella spinta del passo.",
+      "innervation": "Nervo tibiale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "edb",
+      "name": "Estensore breve delle dita del piede",
+      "region": "Piede",
+      "models": [
+        "Extensor digitorum brevis"
+      ],
+      "origin": "Superficie superolaterale del calcagno.",
+      "insertion": "Tendini dell’estensore lungo diretti alle dita II–IV.",
+      "actions": "Assiste l’estensione delle dita II–IV.",
+      "innervation": "Nervo fibulare profondo.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "ehb",
+      "name": "Estensore breve dell’alluce",
+      "region": "Piede",
+      "models": [
+        "Extensor hallucis brevis"
+      ],
+      "origin": "Superficie superolaterale del calcagno.",
+      "insertion": "Base dorsale della falange prossimale dell’alluce.",
+      "actions": "Estensione metatarsofalangea dell’alluce.",
+      "innervation": "Nervo fibulare profondo.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "abductor-hallucis",
+      "name": "Abduttore dell’alluce",
+      "region": "Piede",
+      "models": [
+        "Abductor hallucis"
+      ],
+      "origin": "Processo mediale della tuberosità calcaneale, retinacolo dei flessori e aponeurosi plantare.",
+      "insertion": "Lato mediale della base della falange prossimale dell’alluce.",
+      "actions": "Abduzione e flessione metatarsofalangea dell’alluce; sostegno dell’arco mediale.",
+      "innervation": "Nervo plantare mediale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "adm-foot",
+      "name": "Abduttore del quinto dito del piede",
+      "region": "Piede",
+      "models": [
+        "Abductor digiti minimi of foot"
+      ],
+      "origin": "Tuberosità calcaneale e aponeurosi plantare.",
+      "insertion": "Lato laterale della base della falange prossimale del V dito.",
+      "actions": "Abduzione e flessione metatarsofalangea del V dito.",
+      "innervation": "Nervo plantare laterale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "fdb",
+      "name": "Flessore breve delle dita del piede",
+      "region": "Piede",
+      "models": [
+        "Flexor digitorum brevis"
+      ],
+      "origin": "Processo mediale della tuberosità calcaneale e aponeurosi plantare.",
+      "insertion": "Falangi medie delle dita II–V.",
+      "actions": "Flessione delle interfalangee prossimali e delle metatarsofalangee II–V.",
+      "innervation": "Nervo plantare mediale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "quadratus-plantae",
+      "name": "Quadrato della pianta",
+      "region": "Piede",
+      "models": [
+        "Quadratus plantae muscle"
+      ],
+      "origin": "Superfici mediale e laterale della faccia plantare del calcagno.",
+      "insertion": "Tendine del flessore lungo delle dita.",
+      "actions": "Assiste il flessore lungo delle dita e ne corregge la direzione di trazione.",
+      "innervation": "Nervo plantare laterale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "lumbricals-foot",
+      "name": "Lombricali del piede",
+      "region": "Piede",
+      "models": [
+        "Lumbrical muscles of foot"
+      ],
+      "origin": "Tendini del flessore lungo delle dita.",
+      "insertion": "Lato mediale delle espansioni dorsali delle dita II–V.",
+      "actions": "Flessione metatarsofalangea ed estensione interfalangea delle dita II–V.",
+      "innervation": "I: plantare mediale. II–IV: plantare laterale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "fhb",
+      "name": "Flessore breve dell’alluce",
+      "region": "Piede",
+      "models": [
+        "Medial head of flexor hallucis brevis",
+        "Lateral head of flexor hallucis brevis"
+      ],
+      "origin": "Superfici plantari di cuboide e cuneiforme laterale, con contributi tendinei.",
+      "insertion": "Entrambi i lati della base della falange prossimale dell’alluce attraverso i sesamoidi.",
+      "actions": "Flessione metatarsofalangea dell’alluce.",
+      "innervation": "Principalmente nervo plantare mediale; possibili contributi laterali al capo laterale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "adductor-hallucis",
+      "name": "Adduttore dell’alluce",
+      "region": "Piede",
+      "models": [
+        "Oblique head of adductor hallucis",
+        "Transverse head of adductor hallucis"
+      ],
+      "origin": "Capo obliquo: basi metatarsali II–IV. Capo trasverso: legamenti plantari metatarsofalangei III–V.",
+      "insertion": "Lato laterale della base della falange prossimale dell’alluce.",
+      "actions": "Adduzione dell’alluce verso il II dito; sostegno dell’arco trasverso.",
+      "innervation": "Ramo profondo del nervo plantare laterale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "fdm-foot",
+      "name": "Flessore breve del quinto dito del piede",
+      "region": "Piede",
+      "models": [
+        "Flexor digiti minimi of foot"
+      ],
+      "origin": "Base del V metatarsale e guaina del fibulare lungo.",
+      "insertion": "Base della falange prossimale del V dito.",
+      "actions": "Flessione metatarsofalangea del V dito.",
+      "innervation": "Ramo superficiale del nervo plantare laterale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "interossei-dorsal-foot",
+      "name": "Interossei dorsali del piede",
+      "region": "Piede",
+      "models": [
+        "Dorsal interossei muscles of foot"
+      ],
+      "origin": "Superfici contigue dei metatarsali.",
+      "insertion": "Entrambi i lati della base del II dito e lati laterali delle falangi prossimali III–IV.",
+      "actions": "Abduzione rispetto al II dito; assistono flessione metatarsofalangea ed estensione interfalangea.",
+      "innervation": "Nervo plantare laterale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "interossei-plantar",
+      "name": "Interossei plantari",
+      "region": "Piede",
+      "models": [
+        "Plantar interossei muscles"
+      ],
+      "origin": "Lati mediali dei metatarsali III–V.",
+      "insertion": "Lati mediali delle falangi prossimali III–V ed espansioni dorsali.",
+      "actions": "Adduzione verso il II dito; assistono flessione metatarsofalangea ed estensione interfalangea.",
+      "innervation": "Nervo plantare laterale.",
+      "sourceIds": [
+        "lower"
+      ]
+    },
+    {
+      "id": "sternocleidomastoid",
+      "name": "Sternocleidomastoideo",
+      "region": "Collo",
+      "models": [
+        "Sternocleidomastoid muscle"
+      ],
+      "origin": "Manubrio dello sterno e terzo mediale della clavicola.",
+      "insertion": "Processo mastoideo e porzione laterale della linea nucale superiore.",
+      "actions": "Unilateralmente: inclinazione omolaterale e rotazione controlaterale. Bilateralmente: flessione cervicale con possibile estensione della testa.",
+      "innervation": "Nervo accessorio (XI); rami cervicali per sensibilità e propriocezione.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "scalene-anterior",
+      "name": "Scaleno anteriore",
+      "region": "Collo",
+      "models": [
+        "Scalenus anterior muscle"
+      ],
+      "origin": "Tubercoli anteriori dei processi trasversi di C3–C6.",
+      "insertion": "Tubercolo dello scaleno sulla I costa.",
+      "actions": "Inclinazione cervicale omolaterale; elevazione della I costa nell’inspirazione.",
+      "innervation": "Rami anteriori dei nervi cervicali.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "scalene-middle",
+      "name": "Scaleno medio",
+      "region": "Collo",
+      "models": [
+        "Scalenus medius muscle"
+      ],
+      "origin": "Processi trasversi delle vertebre cervicali inferiori, generalmente C2–C7.",
+      "insertion": "Superficie superiore della I costa, dietro il solco dell’arteria succlavia.",
+      "actions": "Inclinazione cervicale omolaterale ed elevazione della I costa.",
+      "innervation": "Rami anteriori dei nervi cervicali.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "scalene-posterior",
+      "name": "Scaleno posteriore",
+      "region": "Collo",
+      "models": [
+        "Scalenus posterior muscle"
+      ],
+      "origin": "Processi trasversi cervicali inferiori, generalmente C5–C7.",
+      "insertion": "Superficie esterna della II costa.",
+      "actions": "Inclinazione cervicale omolaterale ed elevazione della II costa.",
+      "innervation": "Rami anteriori dei nervi cervicali.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "longus-capitis",
+      "name": "Lungo della testa",
+      "region": "Collo",
+      "models": [
+        "Longus capitis muscle"
+      ],
+      "origin": "Tubercoli anteriori dei processi trasversi di C3–C6.",
+      "insertion": "Parte basilare dell’occipite.",
+      "actions": "Flessione della testa e del rachide cervicale superiore.",
+      "innervation": "Rami anteriori dei nervi cervicali.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "longus-colli",
+      "name": "Lungo del collo",
+      "region": "Collo",
+      "models": [
+        "Longus colli muscle"
+      ],
+      "origin": "Corpi vertebrali cervicali inferiori e toracici superiori e processi trasversi cervicali.",
+      "insertion": "Corpi cervicali superiori, processi trasversi e tubercolo anteriore dell’atlante, secondo il fascio.",
+      "actions": "Flessione e stabilizzazione cervicale; contribuisce all’inclinazione e alla rotazione del collo.",
+      "innervation": "Rami anteriori dei nervi cervicali.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "splenius-capitis",
+      "name": "Splenio della testa",
+      "region": "Collo",
+      "models": [
+        "Splenius capitis muscle"
+      ],
+      "origin": "Legamento nucale inferiore e processi spinosi cervicali inferiori e toracici superiori.",
+      "insertion": "Processo mastoideo e parte laterale della linea nucale superiore.",
+      "actions": "Estensione bilaterale; rotazione e inclinazione omolaterali della testa.",
+      "innervation": "Rami posteriori dei nervi cervicali.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "splenius-colli",
+      "name": "Splenio del collo",
+      "region": "Collo",
+      "models": [
+        "Splenius colli muscle"
+      ],
+      "origin": "Processi spinosi toracici superiori.",
+      "insertion": "Processi trasversi cervicali superiori.",
+      "actions": "Estensione bilaterale; rotazione e inclinazione omolaterali del collo.",
+      "innervation": "Rami posteriori dei nervi cervicali.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "rectus-capitis-posterior-major",
+      "name": "Grande retto posteriore della testa",
+      "region": "Collo",
+      "models": [
+        "Rectus posterior major capitis muscle"
+      ],
+      "origin": "Processo spinoso dell’epistrofeo (C2).",
+      "insertion": "Porzione laterale della linea nucale inferiore dell’occipite.",
+      "actions": "Estensione e rotazione omolaterale della testa.",
+      "innervation": "Nervo sottoccipitale, ramo posteriore di C1.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "rectus-capitis-posterior-minor",
+      "name": "Piccolo retto posteriore della testa",
+      "region": "Collo",
+      "models": [
+        "Rectus posterior minor capitis muscle"
+      ],
+      "origin": "Tubercolo posteriore dell’atlante (C1).",
+      "insertion": "Porzione mediale della linea nucale inferiore dell’occipite.",
+      "actions": "Estensione e stabilizzazione della testa.",
+      "innervation": "Nervo sottoccipitale, ramo posteriore di C1.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "obliquus-capitis-superior",
+      "name": "Obliquo superiore della testa",
+      "region": "Collo",
+      "models": [
+        "Obliquus superior capitis muscle"
+      ],
+      "origin": "Processo trasverso dell’atlante.",
+      "insertion": "Occipite, tra le linee nucali.",
+      "actions": "Estensione e inclinazione omolaterale della testa.",
+      "innervation": "Nervo sottoccipitale, ramo posteriore di C1.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "obliquus-capitis-inferior",
+      "name": "Obliquo inferiore della testa",
+      "region": "Collo",
+      "models": [
+        "Obliquus inferior capitis muscle"
+      ],
+      "origin": "Processo spinoso dell’epistrofeo.",
+      "insertion": "Processo trasverso dell’atlante.",
+      "actions": "Rotazione omolaterale dell’atlante e della testa.",
+      "innervation": "Nervo sottoccipitale, ramo posteriore di C1.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "rectus-capitis-anterior",
+      "name": "Retto anteriore della testa",
+      "region": "Collo",
+      "models": [
+        "Rectus anterior capitis muscle"
+      ],
+      "origin": "Massa laterale dell’atlante, superficie anteriore.",
+      "insertion": "Parte basilare dell’occipite.",
+      "actions": "Flessione e stabilizzazione della testa sull’atlante.",
+      "innervation": "Rami anteriori cervicali superiori.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "rectus-capitis-lateral",
+      "name": "Retto laterale della testa",
+      "region": "Collo",
+      "models": [
+        "Rectus lateralis capitis muscle"
+      ],
+      "origin": "Processo trasverso dell’atlante.",
+      "insertion": "Processo giugulare dell’occipite.",
+      "actions": "Inclinazione laterale e stabilizzazione della testa.",
+      "innervation": "Rami anteriori cervicali superiori.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "iliocostalis",
+      "name": "Ileocostale — gruppo",
+      "region": "Dorso",
+      "models": [
+        "Iliocostalis lumborum muscle",
+        "Iliocostalis thoracis muscle",
+        "Iliocostalis colli muscle"
+      ],
+      "origin": "Porzione lombare: cresta iliaca e sacro. Porzioni toracica e cervicale: coste inferiori rispetto alle rispettive inserzioni.",
+      "insertion": "Angoli delle coste e processi trasversi cervicali, secondo la porzione.",
+      "actions": "Estensione e inclinazione omolaterale del tronco o del collo.",
+      "innervation": "Rami posteriori dei nervi spinali dei livelli corrispondenti.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "longissimus",
+      "name": "Lunghissimo — gruppo",
+      "region": "Dorso",
+      "models": [
+        "Longissimus thoracis muscle",
+        "Longissimus colli muscle",
+        "Longissimus capitis muscle"
+      ],
+      "origin": "Regione sacrolombare e processi trasversi di vertebre poste inferiormente alle inserzioni.",
+      "insertion": "Coste e processi trasversi superiori; porzione della testa al processo mastoideo.",
+      "actions": "Estensione e inclinazione omolaterale; la porzione della testa contribuisce alla rotazione omolaterale.",
+      "innervation": "Rami posteriori dei nervi spinali dei livelli corrispondenti.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "spinalis",
+      "name": "Spinale — gruppo",
+      "region": "Dorso",
+      "models": [
+        "Spinalis thoracis muscle",
+        "Spinalis colli muscle",
+        "Spinalis capitis muscle"
+      ],
+      "origin": "Processi spinosi inferiori rispetto al tratto interessato.",
+      "insertion": "Processi spinosi superiori; la porzione della testa, variabile, si unisce spesso al semispinale.",
+      "actions": "Estensione e controllo posturale del rachide.",
+      "innervation": "Rami posteriori dei nervi spinali.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "multifidus",
+      "name": "Multifido — gruppo",
+      "region": "Dorso",
+      "models": [
+        "Multifidus lumborum muscle",
+        "Multifidus thoracis muscle",
+        "Multifidus colli muscle"
+      ],
+      "origin": "Sacro e strutture vertebrali posteriori: processi mammillari, trasversi o articolari secondo il tratto.",
+      "insertion": "Processi spinosi posti due–quattro livelli più in alto.",
+      "actions": "Stabilizzazione segmentaria; estensione bilaterale e rotazione controlaterale.",
+      "innervation": "Rami posteriori dei nervi spinali.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "semispinalis",
+      "name": "Semispinale — porzioni cervicale e toracica",
+      "region": "Dorso",
+      "models": [
+        "Semispinalis colli muscle",
+        "Semispinalis thoracis muscle"
+      ],
+      "origin": "Processi trasversi cervicali inferiori e toracici.",
+      "insertion": "Processi spinosi quattro–sei segmenti superiori, secondo la porzione.",
+      "actions": "Estensione e rotazione controlaterale del rachide cervicale o toracico.",
+      "innervation": "Rami posteriori dei nervi spinali.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "rotatores",
+      "name": "Rotatori del rachide",
+      "region": "Dorso",
+      "models": [
+        "Rotatores"
+      ],
+      "origin": "Processi trasversi vertebrali, soprattutto toracici.",
+      "insertion": "Lamine e basi dei processi spinosi uno o due segmenti superiori.",
+      "actions": "Controllo segmentario e propriocezione; contribuiscono a estensione e rotazione controlaterale.",
+      "innervation": "Rami posteriori dei nervi spinali.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "serratus-post-superior",
+      "name": "Dentato posteriore superiore",
+      "region": "Dorso",
+      "models": [
+        "Serratus posterior superior muscle"
+      ],
+      "origin": "Legamento nucale inferiore e processi spinosi di C7–T3.",
+      "insertion": "Margini superiori delle coste II–V.",
+      "actions": "Tradizionalmente associato all’elevazione costale; il contributo respiratorio effettivo non è univoco.",
+      "innervation": "Nervi intercostali superiori.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "serratus-post-inferior",
+      "name": "Dentato posteriore inferiore",
+      "region": "Dorso",
+      "models": [
+        "Serratus posterior inferior muscle"
+      ],
+      "origin": "Processi spinosi di T11–L2 e fascia toracolombare.",
+      "insertion": "Margini inferiori delle coste IX–XII.",
+      "actions": "Tradizionalmente associato alla depressione delle coste inferiori; partecipa al controllo della parete toracica.",
+      "innervation": "Rami anteriori toracici inferiori.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "diaphragm",
+      "name": "Diaframma",
+      "region": "Torace",
+      "models": [
+        "Diaphragm"
+      ],
+      "origin": "Processo xifoideo, coste inferiori e cartilagini; pilastri lombari e legamenti arcuati.",
+      "insertion": "Centro tendineo del diaframma.",
+      "actions": "Principale muscolo inspiratorio: abbassa le cupole e aumenta il volume toracico.",
+      "innervation": "Nervi frenici (C3–C5) per la motricità.",
+      "sourceIds": [
+        "abdomen"
+      ]
+    },
+    {
+      "id": "rectus-abdominis",
+      "name": "Retto dell’addome",
+      "region": "Addome",
+      "models": [
+        "Rectus abdominis muscle"
+      ],
+      "origin": "Cresta pubica e sinfisi pubica.",
+      "insertion": "Processo xifoideo e cartilagini costali V–VII.",
+      "actions": "Flessione del tronco, compressione addominale e controllo dell’inclinazione del bacino.",
+      "innervation": "Nervi toracoaddominali e sottocostale.",
+      "sourceIds": [
+        "abdomen"
+      ]
+    },
+    {
+      "id": "external-oblique",
+      "name": "Obliquo esterno dell’addome",
+      "region": "Addome",
+      "models": [
+        "External abdominal oblique muscle"
+      ],
+      "origin": "Superfici esterne delle coste V–XII.",
+      "insertion": "Linea alba, regione pubica e parte anteriore della cresta iliaca.",
+      "actions": "Bilateralmente flette e comprime l’addome; unilateralmente inclina dallo stesso lato e ruota dal lato opposto.",
+      "innervation": "Nervi toracoaddominali e sottocostale.",
+      "sourceIds": [
+        "abdomen"
+      ]
+    },
+    {
+      "id": "internal-oblique",
+      "name": "Obliquo interno dell’addome",
+      "region": "Addome",
+      "models": [
+        "Internal abdominal oblique muscle"
+      ],
+      "origin": "Fascia toracolombare, cresta iliaca e parte laterale del legamento inguinale.",
+      "insertion": "Coste inferiori, linea alba e pube tramite il tendine congiunto.",
+      "actions": "Compressione e flessione del tronco; inclinazione e rotazione omolaterali.",
+      "innervation": "Nervi toracoaddominali, sottocostale, ileoipogastrico e ileoinguinale.",
+      "sourceIds": [
+        "abdomen"
+      ]
+    },
+    {
+      "id": "transversus-abdominis",
+      "name": "Trasverso dell’addome",
+      "region": "Addome",
+      "models": [
+        "Transversus abdominis muscle"
+      ],
+      "origin": "Cartilagini costali inferiori, fascia toracolombare, cresta iliaca e legamento inguinale.",
+      "insertion": "Linea alba, cresta pubica e pettine del pube.",
+      "actions": "Compressione dei visceri e controllo della pressione addominale; contributo alla stabilità del tronco.",
+      "innervation": "Nervi toracoaddominali, sottocostale, ileoipogastrico e ileoinguinale.",
+      "sourceIds": [
+        "abdomen"
+      ]
+    },
+    {
+      "id": "quadratus-lumborum",
+      "name": "Quadrato dei lombi",
+      "region": "Addome",
+      "models": [
+        "Quadratus lumborum muscle"
+      ],
+      "origin": "Cresta iliaca posteriore e legamento ileolombare.",
+      "insertion": "XII costa e processi trasversi di L1–L4.",
+      "actions": "Inclinazione omolaterale del tronco; stabilizza la XII costa e contribuisce all’estensione lombare.",
+      "innervation": "Nervo sottocostale e rami anteriori lombari.",
+      "sourceIds": [
+        "abdomen"
+      ]
+    },
+    {
+      "id": "pyramidalis",
+      "name": "Piramidale dell’addome",
+      "region": "Addome",
+      "models": [
+        "Pyramidalis muscle"
+      ],
+      "origin": "Pube e sinfisi pubica, anteriormente al retto dell’addome.",
+      "insertion": "Porzione inferiore della linea alba.",
+      "actions": "Tende la linea alba; muscolo incostante.",
+      "innervation": "Nervo sottocostale.",
+      "sourceIds": [
+        "abdomen"
+      ]
+    },
+    {
+      "id": "coccygeus",
+      "name": "Coccigeo (ischiococcigeo)",
+      "region": "Bacino",
+      "models": [
+        "Coccygeus muscle"
+      ],
+      "origin": "Spina ischiatica e legamento sacrospinoso.",
+      "insertion": "Margini laterali del sacro inferiore e del coccige.",
+      "actions": "Sostegno dei visceri pelvici; contribuisce al sollevamento del pavimento pelvico.",
+      "innervation": "Rami anteriori sacrali.",
+      "sourceIds": [
+        "pelvis"
+      ]
+    },
+    {
+      "id": "iliococcygeus",
+      "name": "Ileococcigeo",
+      "region": "Bacino",
+      "models": [
+        "Iliococcygeus muscle"
+      ],
+      "origin": "Arco tendineo dell’elevatore dell’ano e spina ischiatica.",
+      "insertion": "Rafe anococcigeo e coccige.",
+      "actions": "Sostegno del pavimento pelvico e dei visceri.",
+      "innervation": "Nervo dell’elevatore dell’ano, dal plesso sacrale.",
+      "sourceIds": [
+        "pelvis"
+      ]
+    },
+    {
+      "id": "pubococcygeus",
+      "name": "Pubococcigeo",
+      "region": "Bacino",
+      "models": [
+        "Pubococcygeus muscle"
+      ],
+      "origin": "Superficie posteriore del pube e fascia otturatoria anteriore.",
+      "insertion": "Corpo perineale, rafe anococcigeo e coccige, con connessioni ai visceri pelvici.",
+      "actions": "Sostegno viscerale e controllo del pavimento pelvico.",
+      "innervation": "Nervo dell’elevatore dell’ano e contributi sacrali.",
+      "sourceIds": [
+        "pelvis"
+      ]
+    },
+    {
+      "id": "external-anal-sphincter",
+      "name": "Sfintere esterno dell’ano",
+      "region": "Bacino",
+      "models": [
+        "External anal sphincter"
+      ],
+      "origin": "Complesso muscolare circolare attorno al canale anale, con ancoraggio al corpo perineale.",
+      "insertion": "Connessioni posteriori al rafe anococcigeo e al coccige.",
+      "actions": "Chiusura volontaria del canale anale e contributo alla continenza.",
+      "innervation": "Nervi rettali inferiori, rami del pudendo; possibili contributi sacrali diretti.",
+      "sourceIds": [
+        "pelvis"
+      ]
+    },
+    {
+      "id": "masseter",
+      "name": "Massetere",
+      "region": "Testa",
+      "models": [
+        "Superficial part of masseter",
+        "Deep part of masseter"
+      ],
+      "origin": "Arco zigomatico e processo zigomatico del mascellare.",
+      "insertion": "Superficie laterale del ramo e dell’angolo mandibolare.",
+      "actions": "Elevazione mandibolare; fasci superficiali contribuiscono alla protrusione, fasci profondi alla stabilizzazione e retrusione.",
+      "innervation": "Nervo masseterino, ramo mandibolare del trigemino (V3).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "temporalis",
+      "name": "Temporale",
+      "region": "Testa",
+      "models": [
+        "Temporalis muscle"
+      ],
+      "origin": "Fossa temporale e fascia temporale.",
+      "insertion": "Processo coronoideo e margine anteriore del ramo mandibolare.",
+      "actions": "Elevazione mandibolare; i fasci posteriori contribuiscono alla retrusione.",
+      "innervation": "Nervi temporali profondi, da V3.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "pterygoid-medial",
+      "name": "Pterigoideo mediale",
+      "region": "Testa",
+      "models": [
+        "Medial pterygoid muscle"
+      ],
+      "origin": "Faccia mediale della lamina pterigoidea laterale e regione della tuberosità mascellare.",
+      "insertion": "Superficie mediale del ramo e dell’angolo della mandibola.",
+      "actions": "Elevazione e protrusione; unilateralmente contribuisce alla deviazione mandibolare controlaterale.",
+      "innervation": "Nervo pterigoideo mediale, da V3.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "pterygoid-lateral",
+      "name": "Pterigoideo laterale",
+      "region": "Testa",
+      "models": [
+        "Superior head of lateral pterygoid muscle",
+        "Inferior head of lateral pterygoid muscle"
+      ],
+      "origin": "Capo superiore: grande ala dello sfenoide. Inferiore: faccia laterale della lamina pterigoidea laterale.",
+      "insertion": "Fovea pterigoidea del collo mandibolare e, soprattutto per il capo superiore, disco e capsula temporomandibolari.",
+      "actions": "Protrusione e movimenti laterali; contribuisce all’apertura e al controllo del complesso disco-condilo.",
+      "innervation": "Nervo pterigoideo laterale, da V3.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "digastric-anterior",
+      "name": "Digastrico — ventre anteriore",
+      "region": "Collo",
+      "models": [
+        "Anterior belly of digastric muscle"
+      ],
+      "origin": "Fossa digastrica della mandibola.",
+      "insertion": "Tendine intermedio, ancorato all’osso ioide.",
+      "actions": "Eleva lo ioide; a ioide fisso contribuisce all’abbassamento mandibolare.",
+      "innervation": "Nervo miloioideo, ramo dell’alveolare inferiore (V3).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "digastric-posterior",
+      "name": "Digastrico — ventre posteriore",
+      "region": "Collo",
+      "models": [
+        "Posterior belly of digastric muscle"
+      ],
+      "origin": "Incisura mastoidea dell’osso temporale.",
+      "insertion": "Tendine intermedio collegato allo ioide.",
+      "actions": "Eleva e retrae lo ioide; partecipa alla deglutizione.",
+      "innervation": "Nervo faciale (VII).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "mylohyoid",
+      "name": "Miloioideo",
+      "region": "Collo",
+      "models": [
+        "Mylohyoid muscle"
+      ],
+      "origin": "Linea miloioidea della mandibola.",
+      "insertion": "Rafe mediano e corpo dello ioide.",
+      "actions": "Eleva pavimento orale e ioide; a ioide fisso assiste l’apertura mandibolare.",
+      "innervation": "Nervo miloioideo, da V3.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "geniohyoid",
+      "name": "Genioioideo",
+      "region": "Collo",
+      "models": [
+        "Geniohyoid muscle"
+      ],
+      "origin": "Spina mentale inferiore della mandibola.",
+      "insertion": "Corpo dello ioide.",
+      "actions": "Porta lo ioide in alto e in avanti; a ioide fisso assiste l’abbassamento mandibolare.",
+      "innervation": "Fibre di C1 che decorrono con il nervo ipoglosso.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "stylohyoid",
+      "name": "Stiloioideo",
+      "region": "Collo",
+      "models": [
+        "Stylohyoid muscle"
+      ],
+      "origin": "Processo stiloideo del temporale.",
+      "insertion": "Corpo dello ioide.",
+      "actions": "Eleva e retrae lo ioide durante la deglutizione.",
+      "innervation": "Nervo faciale (VII).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "sternohyoid",
+      "name": "Sternoioideo",
+      "region": "Collo",
+      "models": [
+        "Sternohyoid muscle"
+      ],
+      "origin": "Manubrio sternale e regione sternoclavicolare.",
+      "insertion": "Corpo dello ioide.",
+      "actions": "Abbassa e stabilizza lo ioide.",
+      "innervation": "Ansa cervicale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "sternothyroid",
+      "name": "Sternotiroideo",
+      "region": "Collo",
+      "models": [
+        "Sternothyroid muscle"
+      ],
+      "origin": "Superficie posteriore del manubrio sternale.",
+      "insertion": "Linea obliqua della cartilagine tiroidea.",
+      "actions": "Abbassa la laringe.",
+      "innervation": "Ansa cervicale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "omohyoid",
+      "name": "Omoioideo",
+      "region": "Collo",
+      "models": [
+        "Omohyoid muscle"
+      ],
+      "origin": "Margine superiore della scapola.",
+      "insertion": "Corpo dello ioide tramite due ventri e un tendine intermedio.",
+      "actions": "Abbassa, retrae e stabilizza lo ioide.",
+      "innervation": "Ansa cervicale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "thyrohyoid",
+      "name": "Tiroioideo",
+      "region": "Collo",
+      "models": [
+        "Thyrohyoid muscle"
+      ],
+      "origin": "Linea obliqua della cartilagine tiroidea.",
+      "insertion": "Corpo e grande corno dello ioide.",
+      "actions": "Abbassa lo ioide oppure eleva la laringe se lo ioide è stabilizzato.",
+      "innervation": "Fibre di C1 che decorrono con il nervo ipoglosso.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "platysma",
+      "name": "Platisma",
+      "region": "Collo",
+      "models": [
+        "Platysma"
+      ],
+      "origin": "Fascia superficiale della regione pettorale e deltoidea.",
+      "insertion": "Mandibola inferiore e cute della parte inferiore del volto.",
+      "actions": "Tende la cute del collo e contribuisce ad abbassare labbro inferiore e mandibola.",
+      "innervation": "Ramo cervicale del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "buccinator",
+      "name": "Buccinatore",
+      "region": "Testa",
+      "models": [
+        "Bucinator"
+      ],
+      "origin": "Processi alveolari di mascellare e mandibola in regione molare e rafe pterigomandibolare.",
+      "insertion": "Angolo della bocca e orbicolare della bocca.",
+      "actions": "Comprime la guancia e mantiene il bolo fra le superfici masticatorie.",
+      "innervation": "Rami buccali del nervo faciale (motori).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "orbicularis-oris",
+      "name": "Orbicolare della bocca",
+      "region": "Testa",
+      "models": [
+        "Orbicularis oris muscle"
+      ],
+      "origin": "Fibre periorali, modiolo e connessioni mascellari e mandibolari.",
+      "insertion": "Cute e mucosa delle labbra.",
+      "actions": "Chiude, comprime e protrude le labbra.",
+      "innervation": "Rami buccali e marginale mandibolare del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "orbicularis-oculi",
+      "name": "Orbicolare dell’occhio",
+      "region": "Testa",
+      "models": [
+        "Orbital part of orbicularis oculi",
+        "Palpebral part of orbicularis oculi"
+      ],
+      "origin": "Margine orbitario mediale, legamento palpebrale mediale e osso lacrimale.",
+      "insertion": "Cute perioculare e rafe palpebrale laterale.",
+      "actions": "Porzione palpebrale: chiusura delicata e ammiccamento. Porzione orbitaria: chiusura energica delle palpebre.",
+      "innervation": "Rami temporali e zigomatici del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "frontalis",
+      "name": "Frontale",
+      "region": "Testa",
+      "models": [
+        "Frontalis muscle"
+      ],
+      "origin": "Aponeurosi epicranica.",
+      "insertion": "Cute delle sopracciglia e della fronte.",
+      "actions": "Eleva le sopracciglia e corruga orizzontalmente la fronte.",
+      "innervation": "Rami temporali del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "occipitalis",
+      "name": "Occipitale",
+      "region": "Testa",
+      "models": [
+        "Occipitalis muscle"
+      ],
+      "origin": "Linea nucale superiore e regione mastoidea.",
+      "insertion": "Aponeurosi epicranica.",
+      "actions": "Retrae il cuoio capelluto.",
+      "innervation": "Ramo auricolare posteriore del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "zygomaticus-major",
+      "name": "Zigomatico maggiore",
+      "region": "Testa",
+      "models": [
+        "Zygomaticus major muscle"
+      ],
+      "origin": "Superficie laterale dell’osso zigomatico.",
+      "insertion": "Modiolo e angolo della bocca.",
+      "actions": "Eleva l’angolo della bocca, come nel sorriso.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "zygomaticus-minor",
+      "name": "Zigomatico minore",
+      "region": "Testa",
+      "models": [
+        "Zygomaticus minor muscle"
+      ],
+      "origin": "Osso zigomatico, medialmente al maggiore.",
+      "insertion": "Labbro superiore.",
+      "actions": "Eleva il labbro superiore.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "levator-anguli-oris",
+      "name": "Elevatore dell’angolo della bocca",
+      "region": "Testa",
+      "models": [
+        "Levator anguli oris"
+      ],
+      "origin": "Fossa canina del mascellare.",
+      "insertion": "Angolo della bocca.",
+      "actions": "Eleva la commissura labiale.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "levator-labii",
+      "name": "Elevatore del labbro superiore",
+      "region": "Testa",
+      "models": [
+        "Levator labii superioris"
+      ],
+      "origin": "Margine infraorbitario del mascellare.",
+      "insertion": "Labbro superiore.",
+      "actions": "Eleva il labbro superiore.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "levator-nasolabialis",
+      "name": "Elevatore del labbro superiore e dell’ala del naso",
+      "region": "Testa",
+      "models": [
+        "Levator nasolabialis"
+      ],
+      "origin": "Processo frontale del mascellare.",
+      "insertion": "Ala del naso e labbro superiore.",
+      "actions": "Eleva il labbro superiore e contribuisce alla dilatazione della narice.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "depressor-anguli",
+      "name": "Depressore dell’angolo della bocca",
+      "region": "Testa",
+      "models": [
+        "Depressor anguli oris"
+      ],
+      "origin": "Linea obliqua della mandibola.",
+      "insertion": "Modiolo e angolo della bocca.",
+      "actions": "Abbassa la commissura labiale.",
+      "innervation": "Ramo marginale mandibolare del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "depressor-labii",
+      "name": "Depressore del labbro inferiore",
+      "region": "Testa",
+      "models": [
+        "Depressor labii inferioris"
+      ],
+      "origin": "Mandibola, lateralmente alla sinfisi.",
+      "insertion": "Cute del labbro inferiore.",
+      "actions": "Abbassa e everte il labbro inferiore.",
+      "innervation": "Ramo marginale mandibolare del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "mentalis",
+      "name": "Mentale",
+      "region": "Testa",
+      "models": [
+        "Mentalis muscle"
+      ],
+      "origin": "Fossa incisiva mandibolare.",
+      "insertion": "Cute del mento.",
+      "actions": "Solleva e protrude il labbro inferiore; corruga la cute del mento.",
+      "innervation": "Ramo marginale mandibolare del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "risorius",
+      "name": "Risorio",
+      "region": "Testa",
+      "models": [
+        "Risorius muscle"
+      ],
+      "origin": "Fascia parotidea e masseterina.",
+      "insertion": "Angolo della bocca.",
+      "actions": "Retrae lateralmente la commissura labiale.",
+      "innervation": "Rami buccali del nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "corrugator",
+      "name": "Corrugatore del sopracciglio",
+      "region": "Testa",
+      "models": [
+        "Corrugator supercilii"
+      ],
+      "origin": "Estremità mediale dell’arcata sopraccigliare.",
+      "insertion": "Cute del sopracciglio.",
+      "actions": "Porta il sopracciglio medialmente e in basso.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "procerus",
+      "name": "Procero",
+      "region": "Testa",
+      "models": [
+        "Procerus muscle"
+      ],
+      "origin": "Fascia dell’osso nasale e cartilagine nasale laterale.",
+      "insertion": "Cute della glabella.",
+      "actions": "Abbassa la parte mediale delle sopracciglia e forma pieghe sulla radice del naso.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "nasalis",
+      "name": "Nasale",
+      "region": "Testa",
+      "models": [
+        "Nasalis muscle"
+      ],
+      "origin": "Mascellare, lateralmente all’apertura nasale.",
+      "insertion": "Aponeurosi del dorso del naso e cartilagine alare.",
+      "actions": "La porzione trasversa comprime l’apertura nasale; quella alare la dilata.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "depressor-septi",
+      "name": "Depressore del setto nasale",
+      "region": "Testa",
+      "models": [
+        "Depressor septi nasi"
+      ],
+      "origin": "Fossa incisiva del mascellare.",
+      "insertion": "Setto mobile e regione alare del naso.",
+      "actions": "Abbassa il setto mobile e contribuisce ai movimenti delle narici.",
+      "innervation": "Nervo faciale.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "interspinales",
+      "name": "Interspinali — gruppo",
+      "region": "Dorso",
+      "models": [
+        "Interspinales colli muscles",
+        "Interspinales thoracis muscles",
+        "Interspinales lumborum muscles"
+      ],
+      "origin": "Margine superiore di un processo spinoso.",
+      "insertion": "Margine inferiore del processo spinoso della vertebra immediatamente superiore.",
+      "actions": "Estensione e stabilizzazione segmentaria del rachide.",
+      "innervation": "Rami posteriori dei nervi spinali.",
+      "sourceIds": [
+        "back"
+      ]
+    },
+    {
+      "id": "intercostal-external",
+      "name": "Intercostali esterni",
+      "region": "Torace",
+      "models": [
+        "External intercostal muscles"
+      ],
+      "origin": "Margine inferiore della costa soprastante.",
+      "insertion": "Margine superiore della costa sottostante, con fibre dirette in basso e avanti.",
+      "actions": "Stabilizzano gli spazi intercostali e contribuiscono all’elevazione delle coste durante l’inspirazione.",
+      "innervation": "Nervi intercostali.",
+      "sourceIds": [
+        "thorax"
+      ]
+    },
+    {
+      "id": "intercostal-internal",
+      "name": "Intercostali interni",
+      "region": "Torace",
+      "models": [
+        "Internal intercostal muscles"
+      ],
+      "origin": "Margine inferiore e solco della costa soprastante.",
+      "insertion": "Margine superiore della costa sottostante, con direzione incrociata rispetto agli esterni.",
+      "actions": "Stabilizzano gli spazi intercostali. Porzione interossea: prevalentemente espiratoria; intercondrale: può favorire l’elevazione costale.",
+      "innervation": "Nervi intercostali.",
+      "sourceIds": [
+        "thorax"
+      ]
+    },
+    {
+      "id": "intercostal-innermost",
+      "name": "Intercostali intimi",
+      "region": "Torace",
+      "models": [
+        "Innermost intercostal muscles"
+      ],
+      "origin": "Superficie interna della costa soprastante.",
+      "insertion": "Costa sottostante, profondamente al fascio vascolonervoso.",
+      "actions": "Supportano la parete intercostale e cooperano con gli intercostali interni.",
+      "innervation": "Nervi intercostali.",
+      "sourceIds": [
+        "thorax"
+      ]
+    },
+    {
+      "id": "transversus-thoracis",
+      "name": "Trasverso del torace",
+      "region": "Torace",
+      "models": [
+        "Transversus thoracis muscle"
+      ],
+      "origin": "Superficie posteriore di sterno inferiore e processo xifoideo.",
+      "insertion": "Superfici interne delle cartilagini costali II–VI.",
+      "actions": "Debole depressione costale durante l’espirazione forzata.",
+      "innervation": "Nervi intercostali.",
+      "sourceIds": [
+        "thorax"
+      ]
+    },
+    {
+      "id": "levatores-costarum",
+      "name": "Elevatori delle coste — gruppo",
+      "region": "Torace",
+      "models": [
+        "Levatores breves costarum",
+        "Levatores longi costarum"
+      ],
+      "origin": "Processi trasversi da C7 ai livelli toracici inferiori.",
+      "insertion": "Costa immediatamente sottostante per i brevi; seconda costa sottostante per i lunghi.",
+      "actions": "Elevazione delle coste e contributo al controllo del rachide toracico.",
+      "innervation": "Rami posteriori dei nervi spinali.",
+      "sourceIds": [
+        "thorax"
+      ]
+    },
+    {
+      "id": "rectus-eye-superior",
+      "name": "Retto superiore dell’occhio",
+      "region": "Testa",
+      "models": [
+        "Superior rectus muscle"
+      ],
+      "origin": "Anello tendineo comune all’apice dell’orbita.",
+      "insertion": "Sclera superiore anteriormente all’equatore del bulbo.",
+      "actions": "Elevazione, adduzione e intorsione del bulbo oculare; l’effetto dipende dalla posizione dello sguardo.",
+      "innervation": "Divisione superiore del nervo oculomotore (III).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "rectus-eye-inferior",
+      "name": "Retto inferiore dell’occhio",
+      "region": "Testa",
+      "models": [
+        "Inferior rectus muscle"
+      ],
+      "origin": "Anello tendineo comune all’apice dell’orbita.",
+      "insertion": "Sclera inferiore anteriormente all’equatore del bulbo.",
+      "actions": "Depressione, adduzione ed extorsione del bulbo oculare.",
+      "innervation": "Divisione inferiore del nervo oculomotore (III).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "rectus-eye-medial",
+      "name": "Retto mediale dell’occhio",
+      "region": "Testa",
+      "models": [
+        "Medial rectus muscle"
+      ],
+      "origin": "Anello tendineo comune all’apice dell’orbita.",
+      "insertion": "Sclera mediale anteriormente all’equatore.",
+      "actions": "Adduzione del bulbo oculare.",
+      "innervation": "Nervo oculomotore (III).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "rectus-eye-lateral",
+      "name": "Retto laterale dell’occhio",
+      "region": "Testa",
+      "models": [
+        "Lateral rectus muscle"
+      ],
+      "origin": "Anello tendineo comune all’apice dell’orbita.",
+      "insertion": "Sclera laterale anteriormente all’equatore.",
+      "actions": "Abduzione del bulbo oculare.",
+      "innervation": "Nervo abducente (VI).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "oblique-eye-superior",
+      "name": "Obliquo superiore dell’occhio",
+      "region": "Testa",
+      "models": [
+        "Superior oblique muscle"
+      ],
+      "origin": "Corpo dello sfenoide, sopra il canale ottico.",
+      "insertion": "Sclera superiore posteriore dopo la riflessione del tendine nella troclea.",
+      "actions": "Intorsione, depressione e abduzione del bulbo; la depressione è più evidente in adduzione.",
+      "innervation": "Nervo trocleare (IV).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "oblique-eye-inferior",
+      "name": "Obliquo inferiore dell’occhio",
+      "region": "Testa",
+      "models": [
+        "Inferior oblique muscle"
+      ],
+      "origin": "Mascellare anteriore sul pavimento mediale dell’orbita.",
+      "insertion": "Sclera posterolaterale.",
+      "actions": "Extorsione, elevazione e abduzione del bulbo; l’elevazione è più evidente in adduzione.",
+      "innervation": "Nervo oculomotore (III).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "levator-palpebrae",
+      "name": "Elevatore della palpebra superiore",
+      "region": "Testa",
+      "models": [
+        "Levator palpebrae superioris"
+      ],
+      "origin": "Piccola ala dello sfenoide, superiormente al canale ottico.",
+      "insertion": "Tarso superiore e cute della palpebra mediante aponeurosi.",
+      "actions": "Solleva la palpebra superiore.",
+      "innervation": "Nervo oculomotore (III), divisione superiore. La componente tarsale liscia adiacente ha innervazione simpatica.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "genioglossus",
+      "name": "Genioglosso",
+      "region": "Testa",
+      "models": [
+        "Genioglossus muscle"
+      ],
+      "origin": "Spina mentale superiore della mandibola.",
+      "insertion": "Lingua e corpo dello ioide.",
+      "actions": "Protrusione della lingua e depressione della sua parte centrale.",
+      "innervation": "Nervo ipoglosso (XII).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "hyoglossus",
+      "name": "Ioglosso",
+      "region": "Testa",
+      "models": [
+        "Hyoglossus muscle"
+      ],
+      "origin": "Corpo e grande corno dello ioide.",
+      "insertion": "Superficie laterale della lingua.",
+      "actions": "Abbassa e retrae la lingua.",
+      "innervation": "Nervo ipoglosso (XII).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "stylopharyngeus",
+      "name": "Stilofaringeo",
+      "region": "Collo",
+      "models": [
+        "Stylopharyngeus muscle"
+      ],
+      "origin": "Processo stiloideo del temporale.",
+      "insertion": "Parete faringea e cartilagine tiroidea.",
+      "actions": "Eleva faringe e laringe durante la deglutizione.",
+      "innervation": "Nervo glossofaringeo (IX).",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "palatopharyngeus",
+      "name": "Palatofaringeo",
+      "region": "Collo",
+      "models": [
+        "Palatopharyngeus muscle"
+      ],
+      "origin": "Palato duro e aponeurosi palatina.",
+      "insertion": "Parete faringea e cartilagine tiroidea.",
+      "actions": "Eleva faringe e laringe e contribuisce alla chiusura durante la deglutizione.",
+      "innervation": "Nervo vago attraverso il plesso faringeo.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "pharyngeal-superior",
+      "name": "Costrittore superiore della faringe",
+      "region": "Collo",
+      "models": [
+        "Superior pharyngeal constrictor"
+      ],
+      "origin": "Regione pterigoidea, rafe pterigomandibolare, mandibola e lingua.",
+      "insertion": "Rafe faringeo e tubercolo faringeo occipitale.",
+      "actions": "Costringe la faringe nella deglutizione.",
+      "innervation": "Nervo vago attraverso il plesso faringeo.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "pharyngeal-middle",
+      "name": "Costrittore medio della faringe",
+      "region": "Collo",
+      "models": [
+        "Middle pharyngeal constrictor"
+      ],
+      "origin": "Corna dello ioide e legamento stiloioideo.",
+      "insertion": "Rafe faringeo mediano.",
+      "actions": "Costringe la faringe e contribuisce alla progressione del bolo.",
+      "innervation": "Nervo vago attraverso il plesso faringeo.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "pharyngeal-inferior",
+      "name": "Costrittore inferiore della faringe",
+      "region": "Collo",
+      "models": [
+        "Inferior pharyngeal constrictor"
+      ],
+      "origin": "Cartilagini tiroidea e cricoidea.",
+      "insertion": "Rafe faringeo; fibre inferiori circolari in continuità con l’esofago.",
+      "actions": "Costrizione faringea; la porzione cricofaringea partecipa allo sfintere esofageo superiore.",
+      "innervation": "Nervo vago tramite plesso faringeo e rami laringei.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "cricothyroid",
+      "name": "Cricotiroideo",
+      "region": "Collo",
+      "models": [
+        "Straight part of cricothyroid muscle",
+        "Oblique part of cricothyroid muscle"
+      ],
+      "origin": "Superficie anterolaterale dell’arco cricoideo.",
+      "insertion": "Margine inferiore e corno inferiore della cartilagine tiroidea.",
+      "actions": "Inclina la tiroide rispetto alla cricoide, allungando e tendendo le pieghe vocali.",
+      "innervation": "Ramo esterno del nervo laringeo superiore, dal vago.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "cricoarytenoid-posterior",
+      "name": "Cricoaritenoideo posteriore",
+      "region": "Collo",
+      "models": [
+        "Posterior crico-arytenoid muscle"
+      ],
+      "origin": "Superficie posteriore della lamina cricoidea.",
+      "insertion": "Processo muscolare dell’aritenoide.",
+      "actions": "Abduzione delle pieghe vocali e apertura della rima glottica.",
+      "innervation": "Nervo laringeo ricorrente, dal vago.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "cricoarytenoid-lateral",
+      "name": "Cricoaritenoideo laterale",
+      "region": "Collo",
+      "models": [
+        "Lateral crico-arytenoid muscle"
+      ],
+      "origin": "Arco cricoideo laterale.",
+      "insertion": "Processo muscolare dell’aritenoide.",
+      "actions": "Adduzione delle pieghe vocali.",
+      "innervation": "Nervo laringeo ricorrente, dal vago.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "arytenoid-transverse",
+      "name": "Aritenoideo trasverso",
+      "region": "Collo",
+      "models": [
+        "Transverse arytenoid muscle"
+      ],
+      "origin": "Superficie posteriore di una cartilagine aritenoidea.",
+      "insertion": "Superficie posteriore dell’aritenoide opposta.",
+      "actions": "Avvicina le aritenoidi e chiude la parte posteriore della rima glottica.",
+      "innervation": "Nervi laringei ricorrenti, dal vago.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "thyroarytenoid",
+      "name": "Tiroaritenoideo — porzione esterna",
+      "region": "Collo",
+      "models": [
+        "External part of thyro-arytenoid muscle"
+      ],
+      "origin": "Faccia interna della cartilagine tiroidea, vicino all’angolo.",
+      "insertion": "Superficie anterolaterale dell’aritenoide.",
+      "actions": "Accorcia e rilassa le pieghe vocali; contribuisce alla loro adduzione.",
+      "innervation": "Nervo laringeo ricorrente, dal vago.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "aryepiglottic",
+      "name": "Ariepiglottico",
+      "region": "Collo",
+      "models": [
+        "Ary-epiglottic part of oblique arytenoid muscle"
+      ],
+      "origin": "Apice dell’aritenoide, in continuità con l’aritenoideo obliquo.",
+      "insertion": "Margine laterale dell’epiglottide.",
+      "actions": "Restringe l’ingresso laringeo durante la deglutizione.",
+      "innervation": "Nervo laringeo ricorrente, dal vago.",
+      "sourceIds": [
+        "head"
+      ]
+    },
+    {
+      "id": "thyroepiglottic",
+      "name": "Tiroepiglottico",
+      "region": "Collo",
+      "models": [
+        "Thyro-epiglottic part of thyro-arytenoid muscle"
+      ],
+      "origin": "Cartilagine tiroidea, in continuità con il tiroaritenoideo.",
+      "insertion": "Margine dell’epiglottide.",
+      "actions": "Contribuisce all’allargamento dell’ingresso laringeo.",
+      "innervation": "Nervo laringeo ricorrente, dal vago.",
+      "sourceIds": [
+        "head"
+      ]
+    }
+  ]
+}
